@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/urlContainer"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal" >
+
+    <WebView
+        android:id="@+id/webView"
+        android:layout_width="fill_parent"
+        android:visibility="invisible"
+        android:layout_height="fill_parent" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Send Message"
+        android:onClick="sendMessageFunction"
+        android:id="@+id/send_message"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="60dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="View Tweet"
+        android:id="@+id/view_tweet"
+
+        android:layout_below="@+id/send_message"
+        android:layout_alignLeft="@+id/send_message"
+        android:layout_alignStart="@+id/send_message"
+        android:layout_marginTop="105dp"
+        android:layout_alignRight="@+id/send_message"
+        android:layout_alignEnd="@+id/send_message" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Search"
+        android:id="@+id/search"
+        android:layout_below="@+id/view_tweet"
+        android:layout_alignRight="@+id/view_tweet"
+        android:layout_alignEnd="@+id/view_tweet"
+        android:layout_marginTop="95dp"
+        android:layout_alignLeft="@+id/view_tweet"
+        android:layout_alignStart="@+id/view_tweet" />
+
+</RelativeLayout>

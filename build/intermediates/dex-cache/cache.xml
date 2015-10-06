@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/tsoglani/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/tsoglani/Desktop/MyTwitterApplication/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-101ed176403705532c63ebf7739523994b5a258f.jar" />
+    </item>
+    <item
+        jar="/home/tsoglani/Desktop/MyTwitterApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/tsoglani/Desktop/MyTwitterApplication/app/build/intermediates/pre-dexed/debug/classes-a71ff25f9bb218e3dedb684bb37bb0480d75be3f.jar" />
+    </item>
+    <item
+        jar="/home/tsoglani/Desktop/MyTwitterApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/tsoglani/Desktop/MyTwitterApplication/app/build/intermediates/pre-dexed/debug/classes-52187595a8dbae1b6ad9cd6056681ebc16f4da0e.jar" />
+    </item>
+    <item
+        jar="/home/tsoglani/Desktop/MyTwitterApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/tsoglani/Desktop/MyTwitterApplication/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-e7d279403ebaea15c60737eda3bf74219788b7bd.jar" />
+    </item>
+    <item
+        jar="/home/tsoglani/Desktop/MyTwitterApplication/app/libs/twitter4j.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="60b1a01be1626b7453655e54fd3e3f8968cf439e">
+        <dex dex="/home/tsoglani/Desktop/MyTwitterApplication/app/build/intermediates/pre-dexed/debug/twitter4j-55d066dc3406d7f3c76c65fd0da2df05863d1517.jar" />
+    </item>
+    <item
+        jar="/home/tsoglani/Desktop/MyTwitterApplication/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/home/tsoglani/Desktop/MyTwitterApplication/app/build/intermediates/pre-dexed/debug/classes-dfaad619788e0bc29591023135bb361991bb1e0f.jar" />
+    </item>
+
+</items>
